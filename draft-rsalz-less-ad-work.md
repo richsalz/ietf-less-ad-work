@@ -19,9 +19,8 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
-category: info
+title: "Less work for Area Directors"
+category: bcp
 
 docname: draft-todo-yourname-protocol-latest
 submissiontype: IETF  # also: "independent", "IAB", or "IRTF"
@@ -56,24 +55,41 @@ informative:
 
 --- abstract
 
-TODO Abstract
+This draft proposes a number of ways that the Area Director workload can
+be reduced. It will be up to the IETF consensus process to set the final
+list.
+
+A major goal of this effort is to make it feasible for a wider diversity
+of people to volunteer as a candidate for AD. Anecdotally, every IESG
+complains about the AD workload, and says that it takes the first
+full term to understand the job.
 
 
 --- middle
 
 # Introduction
 
-TODO Introduction
-
+Repeat the abstract.
 
 # Conventions and Definitions
 
 {::boilerplate bcp14-tagged}
 
+# Recommendations/Suggestions
+
+## Only one AD to approve
+
+## No "revisit" documents open across change-over
+
+## Documents, not paperwork
+
+What is the rationale for the IESG setting meeting logistics?
+
+## Reimburse travel
 
 # Security Considerations
 
-TODO Security
+There are no security considerations.
 
 
 # IANA Considerations
@@ -86,4 +102,4 @@ This document has no IANA actions.
 # Acknowledgments
 {:numbered="false"}
 
-TODO acknowledge.
+None yet.
