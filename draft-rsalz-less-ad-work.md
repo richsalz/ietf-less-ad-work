@@ -44,9 +44,9 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Rich Salz
+    organization: Akamai Technologies
+    email: rsalz@akamai.com
 
 normative:
 
@@ -79,13 +79,52 @@ Repeat the abstract.
 
 ## Only one AD to approve
 
+A document should only require one AD in each area to approve.
+
 ## No "revisit" documents open across change-over
 
-## Documents, not paperwork
+A new AD should not add be able to add work on authors, or for them.
+If a previous AD did a poor job, it must be a public IESG decision that
+the previous ballot should be ignored.
+
+## Documents, not scheduling
 
 What is the rationale for the IESG setting meeting logistics?
 
+## Content not language
+
+It is not an effectiv use of technical experts to review and correct
+for things like typo's, etc.
+We recognize that many ADs will, be "unable to help themselves."
+We suggest that ADs can point out things that are not clear, and if
+there are many of them, feel free to send the document back to the WG.
+This will be hard, particularly for contributors were English is not
+their native language.
+Perhaps the IETF can offer resources to help with this before a document
+gets to the RFC Production Center (which is more focused on copyediting,
+anyway).
+
+# Increasing the candidate pool
+
+This document offers a number of suggestions to reduce the workload
+of an IETF Area Director. Previous NomCom's have repeatedly heard that
+the effort is involved is a full-time job. Few companies other than
+large IT or Internet firms, can afford this.
+This document offers some suggestions, in addition to reducing the workload,
+that might help increase the diversity of candidates.
+
 ## Reimburse travel
+
+Might help get more volunteers from other (less-wealthy? smaller companies?)
+parts of the world.
+We have learned to accomodate more remote meetings, perhaps that is enough.
+
+## Pre-AD training
+
+"So you want to be an AD" could be worthwhile training to offer.
+Of course the IESG and the way the work vary, and it would have to
+be done in consultation with them, but this might be interesting.
+
 
 # Security Considerations
 
