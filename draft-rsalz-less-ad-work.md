@@ -22,7 +22,7 @@
 title: "Less work for Area Directors"
 category: bcp
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-rsalz-less-ad-work-latest
 submissiontype: IETF  # also: "independent", "IAB", or "IRTF"
 number:
 date:
