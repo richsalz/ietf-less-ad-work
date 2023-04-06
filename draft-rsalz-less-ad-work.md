@@ -2,24 +2,12 @@
 ###
 # Internet-Draft Markdown Template
 #
-# Rename this file from draft-todo-yourname-protocol.md to get started.
-# Draft name format is "draft-<yourname>-<workgroup>-<name>.md".
-#
-# For initial setup, you only need to edit the first block of fields.
-# Only "title" needs to be changed; delete "abbrev" if your title is short.
-# Any other content can be edited, but be careful not to introduce errors.
-# Some fields will be set automatically during setup if they are unchanged.
-#
-# Don't include "-00" or "-latest" in the filename.
-# Labels in the form draft-<yourname>-<workgroup>-<name>-latest are used by
-# the tools to refer to the current version; see "docname" for example.
-#
 # This template uses kramdown-rfc: https://github.com/cabo/kramdown-rfc
 # You can replace the entire file if you prefer a different format.
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "Less work for Area Directors"
+title: "Making Less work for Area Directors"
 category: bcp
 
 docname: draft-rsalz-less-ad-work-latest
@@ -28,19 +16,16 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
+area: gen
 workgroup: WG Working Group
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+ - IESG
 venue:
-  group: WG
+  group: GENDISPATCH
   type: Working Group
-  mail: WG@example.com
+  mail: gendispatch@ietf.org
   arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  github: rsalz/ietf-less-ad-work
 
 author:
  -
@@ -51,6 +36,14 @@ author:
 normative:
 
 informative:
+  FORBES:
+    target: https://www.forbes.com/lists/global2000/?sh=3d73be235ac0
+    title: The Global 2000
+    author:
+    - org: Forbes Magazine
+    date: 2022
+  RFC8718:
+
 
 
 --- abstract
@@ -75,30 +68,86 @@ Repeat the abstract.
 
 {::boilerplate bcp14-tagged}
 
+# History of IESG Job Descriptions
+
+It might be useful to look at the job descriptions that the IESG provided to
+NomCom over the years.
+
+In 2016, the description said
+
+> The basic IESG activities can consume between 15-40 hours a week.
+
+In 2017, this changed to
+
+> The ability to contribute more time is useful, but if the NomCom should
+> pick a few ADs who can only do 15 hrs/week on a routine basis, the IESG can
+> cope with that.
+
+Starting with the 2018 NomCom, this changed to the following
+
+> Many ADs allocate 15 hours or more per week...
+
+This boilerplate has been unchanged in the five years since then.
+
+> **TODO:** Would be interesting to find out why this changed.
+
+Interestingly, the number of pages has also not changed "read on the
+order of 500 pages of internet-drafts every two weeks."
+
+> **TODO:** Get pagecounts for the past several years; maybe from the
+> sodastream folks?
+
+# Rationale
+
+We need to make the AD job (except for the IETF Chair),
+less time-consuming. The current requirement is not sustainable, and will
+lead to centralization of technical leadership in only the largest
+companies.
+Of the 14 current Area Directors, eight (more than half) work for the one
+of the 2,000 largest global companies {{FORBES}} or a subsidiary.
+
+> **TODO:** Look at previous IESG membership
+
 # Recommendations/Suggestions
 
 ## Only one AD to approve
 
-A document should only require one AD in each area to approve.
+An Internet-Draft ballot should allow only one AD in each area to vote.
+The other director(s) can either vote "no objection" or the ballot
+tracking can be modified to handle this more directly.
+Coordination between area ADs is left to them to handle; this document
+suggests that the *non-responsible* AD be the one to vote.
+During discussion, all ADs should participate.
+
+For any area with a directorate, the default ballot position should be
+to accept that review, if one is given.
 
 ## No "revisit" documents open across change-over
 
+An incoming AD should not pick up the documents left by the predecessor.
 A new AD should not add be able to add work on authors, or for them.
-If a previous AD did a poor job, it must be a public IESG decision that
-the previous ballot should be ignored.
+
+If the IESG believes that a previous AD did a poor job, it should vote
+on that and announce it to the IETF community.
 
 ## Documents, not scheduling
 
 What is the rationale for the IESG setting meeting logistics?
+How much time is consumed with scheduling?
+
+We have professional staff, with Board oversight, and consultations.
+The meeting venue requirements are being discussed as an update to
+{{RFC8718}} and any policy changes will be acted on.
 
 ## Content not language
 
-It is not an effectiv use of technical experts to review and correct
+It is not an effective use of technical experts to review and correct
 for things like typo's, etc.
-We recognize that many ADs will, be "unable to help themselves."
-We suggest that ADs can point out things that are not clear, and if
+We recognize that many ADs will be "unable to help themselves" as
+the personality trait of nit-picking is endemic to our profession.
+ADs can point out things that are not clear, and if
 there are many of them, feel free to send the document back to the WG.
-This will be hard, particularly for contributors were English is not
+This will be hard, particularly for contributors where English is not
 their native language.
 Perhaps the IETF can offer resources to help with this before a document
 gets to the RFC Production Center (which is more focused on copyediting,
@@ -123,13 +172,11 @@ We have learned to accomodate more remote meetings, perhaps that is enough.
 
 "So you want to be an AD" could be worthwhile training to offer.
 Of course the IESG and the way the work vary, and it would have to
-be done in consultation with them, but this might be interesting.
-
+be done in consultation with them.
 
 # Security Considerations
 
-There are no security considerations.
-
+This changes the IESG review process.
 
 # IANA Considerations
 
