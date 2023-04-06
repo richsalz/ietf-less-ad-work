@@ -17,14 +17,13 @@ date:
 consensus: true
 v: 3
 area: gen
-workgroup: WG Working Group
+workgroup: GENDISPATCH Working Group
 keyword:
  - IESG
 venue:
   group: GENDISPATCH
   type: Working Group
   mail: gendispatch@ietf.org
-  arch: https://example.com/WG
   github: rsalz/ietf-less-ad-work
 
 author:
