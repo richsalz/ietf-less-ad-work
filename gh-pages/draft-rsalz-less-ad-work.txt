@@ -1,0 +1,249 @@
+
+
+
+
+GENDISPATCH Working Group                                        R. Salz
+Internet-Draft                                       Akamai Technologies
+Intended status: Best Current Practice                      6 April 2023
+Expires: 8 October 2023
+
+
+                  Making Less work for Area Directors
+                    draft-rsalz-less-ad-work-latest
+
+Abstract
+
+   This draft proposes a number of ways that the Area Director workload
+   can be reduced.  It will be up to the IETF consensus process to set
+   the final list.
+
+   A major goal of this effort is to make it feasible for a wider
+   diversity of people to volunteer as a candidate for AD.  Anecdotally,
+   every IESG complains about the AD workload, and says that it takes
+   the first full term to understand the job.
+
+About This Document
+
+   This note is to be removed before publishing as an RFC.
+
+   Status information for this document may be found at
+   https://datatracker.ietf.org/doc/draft-rsalz-less-ad-work/.
+
+   Discussion of this document takes place on the GENDISPATCH Working
+   Group mailing list (mailto:gendispatch@ietf.org), which is archived
+   at https://mailarchive.ietf.org/arch/browse/gendispatch/.  Subscribe
+   at https://www.ietf.org/mailman/listinfo/gendispatch/.
+
+   Source for this draft and an issue tracker can be found at
+   https://github.com/rsalz/ietf-less-ad-work.
+
+Status of This Memo
+
+   This Internet-Draft is submitted in full conformance with the
+   provisions of BCP 78 and BCP 79.
+
+   Internet-Drafts are working documents of the Internet Engineering
+   Task Force (IETF).  Note that other groups may also distribute
+   working documents as Internet-Drafts.  The list of current Internet-
+   Drafts is at https://datatracker.ietf.org/drafts/current/.
+
+   Internet-Drafts are draft documents valid for a maximum of six months
+   and may be updated, replaced, or obsoleted by other documents at any
+   time.  It is inappropriate to use Internet-Drafts as reference
+   material or to cite them other than as "work in progress."
+
+   This Internet-Draft will expire on 8 October 2023.
+
+Copyright Notice
+
+   Copyright (c) 2023 IETF Trust and the persons identified as the
+   document authors.  All rights reserved.
+
+   This document is subject to BCP 78 and the IETF Trust's Legal
+   Provisions Relating to IETF Documents (https://trustee.ietf.org/
+   license-info) in effect on the date of publication of this document.
+   Please review these documents carefully, as they describe your rights
+   and restrictions with respect to this document.  Code Components
+   extracted from this document must include Revised BSD License text as
+   described in Section 4.e of the Trust Legal Provisions and are
+   provided without warranty as described in the Revised BSD License.
+
+Table of Contents
+
+   1.  Introduction
+   2.  Conventions and Definitions
+   3.  History of IESG Job Descriptions
+   4.  Rationale
+   5.  Recommendations/Suggestions
+     5.1.  Only one AD to approve
+     5.2.  No "revisit" documents open across change-over
+     5.3.  Documents, not scheduling
+     5.4.  Content not language
+   6.  Increasing the candidate pool
+     6.1.  Reimburse travel
+     6.2.  Pre-AD training
+   7.  Security Considerations
+   8.  IANA Considerations
+   9.  References
+     9.1.  Normative References
+     9.2.  Informative References
+   Acknowledgments
+   Author's Address
+
+1.  Introduction
+
+   Repeat the abstract.
+
+2.  Conventions and Definitions
+
+   The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
+   "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and
+   "OPTIONAL" in this document are to be interpreted as described in
+   BCP 14 [RFC2119] [RFC8174] when, and only when, they appear in all
+   capitals, as shown here.
+
+3.  History of IESG Job Descriptions
+
+   It might be useful to look at the job descriptions that the IESG
+   provided to NomCom over the years.
+
+   In 2016, the description said
+
+      The basic IESG activities can consume between 15-40 hours a week.
+
+   In 2017, this changed to
+
+      The ability to contribute more time is useful, but if the NomCom
+      should pick a few ADs who can only do 15 hrs/week on a routine
+      basis, the IESG can cope with that.
+
+   Starting with the 2018 NomCom, this changed to the following
+
+      Many ADs allocate 15 hours or more per week...
+
+   This boilerplate has been unchanged in the five years since then.
+
+      *TODO:* Would be interesting to find out why this changed.
+
+   Interestingly, the number of pages has also not changed "read on the
+   order of 500 pages of internet-drafts every two weeks."
+
+      *TODO:* Get pagecounts for the past several years; maybe from the
+      sodastream folks?
+
+4.  Rationale
+
+   We need to make the AD job (except for the IETF Chair), less time-
+   consuming.  The current requirement is not sustainable, and will lead
+   to centralization of technical leadership in only the largest
+   companies.  Of the 14 current Area Directors, eight (more than half)
+   work for the one of the 2,000 largest global companies [FORBES] or a
+   subsidiary.
+
+      *TODO:* Look at previous IESG membership
+
+5.  Recommendations/Suggestions
+
+5.1.  Only one AD to approve
+
+   An Internet-Draft ballot should allow only one AD in each area to
+   vote.  The other director(s) can either vote "no objection" or the
+   ballot tracking can be modified to handle this more directly.
+   Coordination between area ADs is left to them to handle; this
+   document suggests that the _non-responsible_ AD be the one to vote.
+   During discussion, all ADs should participate.
+
+   For any area with a directorate, the default ballot position should
+   be to accept that review, if one is given.
+
+5.2.  No "revisit" documents open across change-over
+
+   An incoming AD should not pick up the documents left by the
+   predecessor.  A new AD should not add be able to add work on authors,
+   or for them.
+
+   If the IESG believes that a previous AD did a poor job, it should
+   vote on that and announce it to the IETF community.
+
+5.3.  Documents, not scheduling
+
+   What is the rationale for the IESG setting meeting logistics?  How
+   much time is consumed with scheduling?
+
+   We have professional staff, with Board oversight, and consultations.
+   The meeting venue requirements are being discussed as an update to
+   [RFC8718] and any policy changes will be acted on.
+
+5.4.  Content not language
+
+   It is not an effective use of technical experts to review and correct
+   for things like typo's, etc.  We recognize that many ADs will be
+   "unable to help themselves" as the personality trait of nit-picking
+   is endemic to our profession.  ADs can point out things that are not
+   clear, and if there are many of them, feel free to send the document
+   back to the WG.  This will be hard, particularly for contributors
+   where English is not their native language.  Perhaps the IETF can
+   offer resources to help with this before a document gets to the RFC
+   Production Center (which is more focused on copyediting, anyway).
+
+6.  Increasing the candidate pool
+
+   This document offers a number of suggestions to reduce the workload
+   of an IETF Area Director.  Previous NomCom's have repeatedly heard
+   that the effort is involved is a full-time job.  Few companies other
+   than large IT or Internet firms, can afford this.  This document
+   offers some suggestions, in addition to reducing the workload, that
+   might help increase the diversity of candidates.
+
+6.1.  Reimburse travel
+
+   Might help get more volunteers from other (less-wealthy? smaller
+   companies?) parts of the world.  We have learned to accomodate more
+   remote meetings, perhaps that is enough.
+
+6.2.  Pre-AD training
+
+   "So you want to be an AD" could be worthwhile training to offer.  Of
+   course the IESG and the way the work vary, and it would have to be
+   done in consultation with them.
+
+7.  Security Considerations
+
+   This changes the IESG review process.
+
+8.  IANA Considerations
+
+   This document has no IANA actions.
+
+9.  References
+
+9.1.  Normative References
+
+   [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
+              Requirement Levels", BCP 14, RFC 2119,
+              DOI 10.17487/RFC2119, March 1997,
+              <https://www.rfc-editor.org/rfc/rfc2119>.
+
+   [RFC8174]  Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC
+              2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC8174,
+              May 2017, <https://www.rfc-editor.org/rfc/rfc8174>.
+
+9.2.  Informative References
+
+   [FORBES]   Forbes Magazine, "The Global 2000", 2022,
+              <https://www.forbes.com/lists/
+              global2000/?sh=3d73be235ac0>.
+
+   [RFC8718]  Lear, E., Ed., "IETF Plenary Meeting Venue Selection
+              Process", BCP 226, RFC 8718, DOI 10.17487/RFC8718,
+              February 2020, <https://www.rfc-editor.org/rfc/rfc8718>.
+
+Acknowledgments
+
+   None yet.
+
+Author's Address
+
+   Rich Salz
+   Akamai Technologies
+   Email: rsalz@akamai.com
