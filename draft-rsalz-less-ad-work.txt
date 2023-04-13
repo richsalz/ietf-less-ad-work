@@ -4,8 +4,8 @@
 
 GENDISPATCH Working Group                                        R. Salz
 Internet-Draft                                       Akamai Technologies
-Intended status: Best Current Practice                      6 April 2023
-Expires: 8 October 2023
+Intended status: Best Current Practice                     13 April 2023
+Expires: 15 October 2023
 
 
                   Making Less work for Area Directors
@@ -52,7 +52,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 8 October 2023.
+   This Internet-Draft will expire on 15 October 2023.
 
 Copyright Notice
 
