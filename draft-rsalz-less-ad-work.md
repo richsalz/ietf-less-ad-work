@@ -277,18 +277,18 @@ fix. This may be hard, particularly for contributors where English is not
 their native language, but all working groups have the resources to help
 with this.
 
-**CITATION** I think it was the MPLS WG that instituted an English
-language review team.
+> **CITATION** I think it was the MPLS WG that instituted an English
+> language review team.
 
 Perhaps the IETF can offer resources to help with this before a document
 gets to the RFC Production Center (which is more focused on copyediting,
 anyway).
 
-**DISCUSSION** I am wary about the "spend money" solution. It's the thin
-end of a nasty wedge that is already rearing its head in a number of
-places across the IETF. We have loads of people for whom English is their
-native language: they participate in WGs and care about the output, so
-they should help.
+> **DISCUSSION** I am wary about the "spend money" solution. It's the thin
+> end of a nasty wedge that is already rearing its head in a number of
+> places across the IETF. We have loads of people for whom English is their
+> native language; they participate in WGs and care about the output, so
+> they should help.
 
 # Increasing the candidate pool
 
