@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2023-04-06T00:27:31.832164+00:00",
+  "timestamp": "2023-04-16T00:29:00.118708+00:00",
   "repo": "richsalz/ietf-less-ad-work",
   "labels": [
     {
@@ -50,5 +50,34 @@
     }
   ],
   "issues": [],
-  "pulls": []
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOIn4Evs5OWv-j",
+      "title": "Adrian",
+      "url": "https://github.com/richsalz/ietf-less-ad-work/pull/1",
+      "state": "MERGED",
+      "author": "richsalz",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2023-04-14T18:44:01Z",
+      "updatedAt": "2023-04-14T18:44:42Z",
+      "baseRepository": "richsalz/ietf-less-ad-work",
+      "baseRefName": "main",
+      "baseRefOid": "bff83c97df2e14718d8698f524c6870e57e11b57",
+      "headRepository": "richsalz/ietf-less-ad-work",
+      "headRefName": "adrian",
+      "headRefOid": "c041b4018efa9ac87b17cd4815383aaa179dc93a",
+      "closedAt": "2023-04-14T18:44:42Z",
+      "mergedAt": "2023-04-14T18:44:42Z",
+      "mergedBy": "richsalz",
+      "mergeCommit": {
+        "oid": "89bf63a51467d7985c61cc72bd0926e9e4b48ea5"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
 }
