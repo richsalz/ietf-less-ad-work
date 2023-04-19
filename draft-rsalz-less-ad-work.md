@@ -131,7 +131,7 @@ This boilerplate has been unchanged in the five years since then.
 At the same time (2018), the descriptiuon added text to say
 
 > Enough time must be allocated to manage approximately 10 to 15 working
-> groups, [and] to read on the order of 500 pages of internet-drafts every two
+> groups, \[and\] to read on the order of 500 pages of internet-drafts every two
 > weeks
 
 This text has also not changed in the last five years.
@@ -150,7 +150,7 @@ the IESG has requested agenda's be limited to 400 pages.
 We want the IESG to be staffed with the best possible people with the
 appropriate technical and management skills. In order to achieve this,
 the job must be achievable, rewarding, and not an insuferable strain on
-the ADs. But the high workload and constnt stress mean that this is not
+the ADs. But the high workload and constant stress mean that this is not
 always possible.
 
 At the same time, the ADs must be funded, and this is usually by their
@@ -168,15 +168,14 @@ centralization of technical leadership in only the largest companies --
 those that can afford the costs and mitigate the loss of a key worker.
 Of the 14 Area Directors in March 2023, eight (more than half) work for
 the one of the 2,000 largest global companies {{FORBES}} or a subsidiary.
+Of course, this is a generalization -- there have been multiple ADs who
+came from Academia or worked for smaller companies.
 
 In order to make the AD positions (except for the IETF Chair) more
 accessible to candidates from different backgrounds and companies,
 the IETF needs to make the AD job less time-consuming.
 
 > **TODO:** Look at previous IESG membership.
-
-> **DISCUSSION** It's interesting, because a number of academics have been
-> ADs, and some people from smaller companies.
 
 # Recommendations/Suggestions
 
@@ -217,27 +216,16 @@ to accept that review, if one is given.
 
 ## No "revisit" documents open across change-over
 
-An incoming AD should not pick up the documents left by the predecessor.
-A new AD should not be able to add work on authors, or to any
-reviewers (directorates and other ADs).
+Any ballots cast before an AD change-over should stand. Notably, any DISCUSS
+issues, if resolved, should result in clearing and allowing the former AD to
+ballot.  This is similar to the NomCom term of office, which lasts until the
+next NomCom is seated.  Perhaps a time-limit of a year or six months should
+be added, allowing a reasonable time for the document queue to drain.
 
-If the IESG believes that a previous AD did a poor job, it should vote
-on that and announce it to the IETF community.
-
-> **DISCUSSION** I think this could be phrased a little more tactfully.
-> Maybe the thing to say is that ballots cast before AD hand-over should
-> stand, making it unnecessary for incoming ADs to review and ballot.
-
-> I'd note that this idea is not going to make a substantial difference.
-> It is likely to affect just a few documented each year. At absolute
-> maximum this is going to represent 5% of the annual workload of an
-> incoming AD. Yes, it's annoying when your I-D is delayed by this, but
-> it is rare, and it should only make two weeks difference.
-
-> **COUNTERPOINT**
-> I like your suggested wording.  But having had documents cross over the
-> March change-over multiple times, the workload isn't just on the AD, but
-> on the authors, other reviewers (as I added to the text above), etc.
+An incoming AD would have to review the in-process draft, and while the
+number of such documents might be small, the potential impact on the
+amount of effort on the document authors, not to mention their morale --
+"what, we have to do this again?" -- can be significant.
 
 ## Documents, not scheduling
 
@@ -280,55 +268,22 @@ with this.
 > **CITATION** I think it was the MPLS WG that instituted an English
 > language review team.
 
-Perhaps the IETF can offer resources to help with this before a document
-gets to the RFC Production Center (which is more focused on copyediting,
-anyway).
-
-> **DISCUSSION** I am wary about the "spend money" solution. It's the thin
-> end of a nasty wedge that is already rearing its head in a number of
-> places across the IETF. We have loads of people for whom English is their
-> native language; they participate in WGs and care about the output, so
-> they should help.
+We also note that the existing RFC Production Center is already highly
+focused on copyediting.
 
 # Increasing the candidate pool
 
-This document offers a number of suggestions to reduce the workload
-of an IETF Area Director. Previous NomCom's have repeatedly heard that
-the effort is involved is a full-time job. Few companies other than
-large IT or Internet firms, can afford this.
+This document offers a number of suggestions to reduce the workload of an
+IETF Area Director, in the hopes that it will increase the diversity of
+candidates.
 
-> **DISCUSSION** Previous para is fine, but probably not here.
-> OTOH, the topic of this section is not mentioned in the Abstract and
-> Introduction. I think I don't object to it being in the document.
-
-This document offers some suggestions, in addition to reducing the workload,
-that might help increase the diversity of candidates.
-
-## Reimburse travel
-
-Might help get more volunteers from other (less-wealthy? smaller companies?)
-parts of the world.
-
-We have learned to accomodate more remote meetings, perhaps that is enough.
-
-> **DISCUSSION** I think that ADs feel they need to participate in person.
-> They might be helped by a discussion of this point. If the travel budget
-> really is an issue, then I think it is worth looking at, although I'd
-> note that in order to be considered as an AD, someone has normally been
-> attending IETF meetings in person, anyway.
-
-## Pre-AD training
-
-"So you want to be an AD" could be worthwhile training to offer.
-Of course the IESG and the way the work vary, and it would have to
-be done in consultation with them.
-
-> **DISCUSSION** being careful that this is not an additional burden
-> on the sitting ADs whose workload is too high!
+The IETF has learned to accomodate to remote meetings, if in-person
+attendance at IESG meetings is perceived as a requirement, perhaps that
+should be explicitly discussed.
 
 # Security Considerations
 
-This changes the IESG review process.
+This document could change the IESG review process.
 
 # IANA Considerations
 
