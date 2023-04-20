@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2023-04-18T00:26:59.984359+00:00",
+  "timestamp": "2023-04-20T00:28:50.107565+00:00",
   "repo": "richsalz/ietf-less-ad-work",
   "labels": [
     {
@@ -76,6 +76,32 @@
       "mergeCommit": {
         "oid": "89bf63a51467d7985c61cc72bd0926e9e4b48ea5"
       },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 2,
+      "id": "PR_kwDOIn4Evs5Osxj-",
+      "title": "Address some of Adrian's points",
+      "url": "https://github.com/richsalz/ietf-less-ad-work/pull/2",
+      "state": "OPEN",
+      "author": "richsalz",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2023-04-19T18:35:18Z",
+      "updatedAt": "2023-04-19T18:37:40Z",
+      "baseRepository": "richsalz/ietf-less-ad-work",
+      "baseRefName": "main",
+      "baseRefOid": "89bf63a51467d7985c61cc72bd0926e9e4b48ea5",
+      "headRepository": "richsalz/ietf-less-ad-work",
+      "headRefName": "post-adrian",
+      "headRefOid": "f25e05344f8f3f8d3e9aebcec4f3f03a3b272ffc",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
       "comments": [],
       "reviews": []
     }
