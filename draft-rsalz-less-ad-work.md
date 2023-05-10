@@ -27,14 +27,14 @@ venue:
   github: rsalz/ietf-less-ad-work
 
 author:
- -
-    fullname: Rich Salz
-    organization: Akamai Technologies
-    email: rsalz@akamai.com
-
-    fullname: Adrian Farrel
-    organization: Old Dog Consulting
-    email: adrian@olddog.co.uk
+ - ins: R. Salz
+   name: Rich Salz
+   organization: Akamai Technologies
+   email: rsalz@akamai.com
+ - ins: A. Farrel
+   fullname: Adrian Farrel
+   organization: Old Dog Consulting
+   email: adrian@olddog.co.uk
 
 normative:
 
