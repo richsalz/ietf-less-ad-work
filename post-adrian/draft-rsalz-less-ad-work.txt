@@ -2,10 +2,11 @@
 
 
 
-GENDISPATCH Working Group                                      A. Farrel
-Internet-Draft                                        Old Dog Consulting
-Intended status: Best Current Practice                     19 April 2023
-Expires: 21 October 2023
+GENDISPATCH Working Group                                        R. Salz
+Internet-Draft                                       Akamai Technologies
+Intended status: Best Current Practice                         A. Farrel
+Expires: 12 November 2023                             Old Dog Consulting
+                                                             11 May 2023
 
 
                   Making Less Work for Area Directors
@@ -63,7 +64,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 21 October 2023.
+   This Internet-Draft will expire on 12 November 2023.
 
 Copyright Notice
 
@@ -97,7 +98,7 @@ Table of Contents
      9.1.  Normative References
      9.2.  Informative References
    Acknowledgments
-   Author's Address
+   Authors' Addresses
 
 1.  Introduction
 
@@ -349,7 +350,12 @@ Acknowledgments
 
    None yet.
 
-Author's Address
+Authors' Addresses
+
+   Rich Salz
+   Akamai Technologies
+   Email: rsalz@akamai.com
+
 
    Adrian Farrel
    Old Dog Consulting
