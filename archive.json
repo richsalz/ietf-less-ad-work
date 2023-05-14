@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2023-05-11T00:27:14.296601+00:00",
+  "timestamp": "2023-05-14T00:30:17.507365+00:00",
   "repo": "richsalz/ietf-less-ad-work",
   "labels": [
     {
@@ -63,7 +63,7 @@
       "labels": [],
       "body": "",
       "createdAt": "2023-04-14T18:44:01Z",
-      "updatedAt": "2023-04-14T18:44:42Z",
+      "updatedAt": "2023-05-11T18:01:05Z",
       "baseRepository": "richsalz/ietf-less-ad-work",
       "baseRefName": "main",
       "baseRefOid": "bff83c97df2e14718d8698f524c6870e57e11b57",
