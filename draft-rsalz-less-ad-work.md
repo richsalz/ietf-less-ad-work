@@ -24,7 +24,7 @@ venue:
   group: GENDISPATCH
   type: Working Group
   mail: gendispatch@ietf.org
-  github: rsalz/ietf-less-ad-work
+  github: richsalz/ietf-less-ad-work
 
 author:
  -
@@ -68,7 +68,7 @@ reduced. It will be up to the IETF consensus process to determine which
 proposals to adopt.
 
 A major goal of this effort is to make it feasible for a wider diversity
-of people to volunteer as candidates for AD possitions by reducing the
+of people to volunteer as candidates for AD positions by reducing the
 barriers and costs to individuals and their employers.
 
 --- middle
@@ -94,7 +94,7 @@ blocked by discussions of the others. It will be up to the IETF
 consensus process to determine which proposals to adopt.
 
 A major goal of this effort is to make it feasible for a wider diversity
-of people to volunteer as candidates for AD possitions by reducing the
+of people to volunteer as candidates for AD positions by reducing the
 barriers and costs to individuals and their employers.
 
 # Conventions and Definitions
@@ -128,7 +128,7 @@ Starting with the 2018 NomCom, this changed to the following
 
 This boilerplate has been unchanged in the five years since then.
 
-At the same time (2018), the descriptiuon added text to say
+At the same time (2018), the description added text to say
 
 > Enough time must be allocated to manage approximately 10 to 15 working
 > groups, [and] to read on the order of 500 pages of internet-drafts every two
@@ -139,7 +139,7 @@ This text has also not changed in the last five years.
 > **TODO:** Would be interesting to find out why this changed.
 
 The IESG secretary says that this past year (ending in March),
-the IESG has requested agenda's be limited to 400 pages.
+the IESG has requested that agendas be limited to 400 pages.
 
 > **TODO:** Get pagecounts for the past several years; maybe from the
 > sodastream folks? From the datatracker? The Secretariat says they do not not
@@ -149,15 +149,15 @@ the IESG has requested agenda's be limited to 400 pages.
 
 We want the IESG to be staffed with the best possible people with the
 appropriate technical and management skills. In order to achieve this,
-the job must be achievable, rewarding, and not an insuferable strain on
-the ADs. But the high workload and constnt stress mean that this is not
+the job must be achievable, rewarding, and not an insufferable strain on
+the ADs. But the high workload and constant stress mean that this is not
 always possible.
 
 At the same time, the ADs must be funded, and this is usually by their
 employers. But, although some companies consider funding an AD as "paying
 the Internet tax," the companies are being asked to release the time of
 one of their key engineers for no or little direct return. At the least,
-they hope that some of their employees's time will be available for work
+they hope that some of their employee's time will be available for work
 within the company; that is, that the AD job will not be a full time job.
 Furthermore, as it is often claimed that an AD does not become fully
 effective until their second term, the role implies a commitment from
@@ -202,7 +202,7 @@ to accept that review, if one is given.
 >
 > This might, however, turn into advice and guidance phrased as
 > "expectations and non-expectations for document review during
-> IESG evalutaion." It could cover:
+> IESG evaluation." It could cover:
 > - trusting other ADs
 > - sharing review responsibilities between ADs
 > - delegation of review to others such as Directorates
@@ -265,13 +265,13 @@ The meeting venue requirements are being discussed as an update to
 ## Content not language
 
 It is not an effective use of technical experts to review and correct
-for things like typo's, etc. We recognize that many ADs will be "unable
+for things like typos, etc. We recognize that many ADs will be "unable
 to help themselves" as the personality trait of nit-picking is endemic
 to our profession, and they should feel free to point out nits, but
 they should be conscious of the time and effort involved.
 
 If a document lacks clarity or has so many issues with English that
-there is a risk of it being misunderstood, the AD should recognise this
+there is a risk of it being misunderstood, the AD should recognize this
 and feel free to send the document back to the WG for the authors to
 fix. This may be hard, particularly for contributors where English is not
 their native language, but all working groups have the resources to help
@@ -309,7 +309,7 @@ that might help increase the diversity of candidates.
 Might help get more volunteers from other (less-wealthy? smaller companies?)
 parts of the world.
 
-We have learned to accomodate more remote meetings, perhaps that is enough.
+We have learned to accommodate more remote meetings, perhaps that is enough.
 
 > **DISCUSSION** I think that ADs feel they need to participate in person.
 > They might be helped by a discussion of this point. If the travel budget
@@ -320,7 +320,7 @@ We have learned to accomodate more remote meetings, perhaps that is enough.
 ## Pre-AD training
 
 "So you want to be an AD" could be worthwhile training to offer.
-Of course the IESG and the way the work vary, and it would have to
+Of course the IESG and the way they work varies, and it would have to
 be done in consultation with them.
 
 > **DISCUSSION** being careful that this is not an additional burden
@@ -340,3 +340,4 @@ This document has no IANA actions.
 {:numbered="false"}
 
 None yet.
+
