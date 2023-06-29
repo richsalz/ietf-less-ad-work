@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2023-06-27T00:36:03.621661+00:00",
+  "timestamp": "2023-06-29T00:35:33.079247+00:00",
   "repo": "richsalz/ietf-less-ad-work",
   "labels": [
     {
@@ -84,25 +84,63 @@
       "id": "PR_kwDOIn4Evs5Osxj-",
       "title": "Address some of Adrian's points",
       "url": "https://github.com/richsalz/ietf-less-ad-work/pull/2",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "richsalz",
       "authorAssociation": "OWNER",
       "assignees": [],
       "labels": [],
       "body": "",
       "createdAt": "2023-04-19T18:35:18Z",
-      "updatedAt": "2023-04-19T18:37:40Z",
+      "updatedAt": "2023-06-28T14:32:28Z",
       "baseRepository": "richsalz/ietf-less-ad-work",
       "baseRefName": "main",
       "baseRefOid": "89bf63a51467d7985c61cc72bd0926e9e4b48ea5",
       "headRepository": "richsalz/ietf-less-ad-work",
       "headRefName": "post-adrian",
       "headRefOid": "f25e05344f8f3f8d3e9aebcec4f3f03a3b272ffc",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "closedAt": "2023-06-28T14:30:55Z",
+      "mergedAt": "2023-06-28T14:30:55Z",
+      "mergedBy": "richsalz",
+      "mergeCommit": {
+        "oid": "f25e05344f8f3f8d3e9aebcec4f3f03a3b272ffc"
+      },
       "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 3,
+      "id": "PR_kwDOIn4Evs5UGvHv",
+      "title": "Update draft-rsalz-less-ad-work.md",
+      "url": "https://github.com/richsalz/ietf-less-ad-work/pull/3",
+      "state": "MERGED",
+      "author": "gregbo",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "Correct some spelling and grammatical errors.  Also fix URL for source draft.",
+      "createdAt": "2023-06-28T05:58:32Z",
+      "updatedAt": "2023-06-28T14:28:23Z",
+      "baseRepository": "richsalz/ietf-less-ad-work",
+      "baseRefName": "main",
+      "baseRefOid": "89bf63a51467d7985c61cc72bd0926e9e4b48ea5",
+      "headRepository": "gregbo/ietf-less-ad-work",
+      "headRefName": "patch-1",
+      "headRefOid": "1e355c5ce70f98a6c5c1dd35853a89e86612bb28",
+      "closedAt": "2023-06-28T14:28:22Z",
+      "mergedAt": "2023-06-28T14:28:22Z",
+      "mergedBy": "richsalz",
+      "mergeCommit": {
+        "oid": "c3bf8fab168a683f57f1ad02c96bb944235058c7"
+      },
+      "comments": [
+        {
+          "author": "richsalz",
+          "authorAssociation": "OWNER",
+          "body": "Thanks for the careful reading, @gregbo !  I'm going to merge this so it will be in the next version of the draft.\r\n",
+          "createdAt": "2023-06-28T14:28:17Z",
+          "updatedAt": "2023-06-28T14:28:17Z"
+        }
+      ],
       "reviews": []
     }
   ]
